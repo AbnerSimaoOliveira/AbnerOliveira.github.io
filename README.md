@@ -1,5 +1,5 @@
-# ArielSimaoDeOliveira.github.io
+# AbnerOliveira.github.io
 
-Curriculum Vitae Online Ariel Simão De Oliveira
+Curriculum Vitae Online Abner S. De Oliveira
 
-https://arielsimao.github.io/
+https://abneroliveira.github.io/
